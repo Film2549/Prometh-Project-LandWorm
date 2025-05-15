@@ -54,7 +54,7 @@ When time runs out, the winner will be shown.
 
 #### There’s also a video (no longer than 10 minutes) on my YouTube channel. You can check it out here: [Presentation Video](https://youtu.be/enNOoQWkPqA?si=_Xdv-qio8XnlZZ9n)
 
-## NOTE :  This project is intended for learning and reference purposes only. Feel free to explore and get inspired, but PLEASE NOT COPY the whole project as-is😡😡👹.
+## NOTE :  This project is intended for learning and reference purposes only. Feel free to explore and get inspired, but PLEASE DO NOT COPY the whole project as-is😡😡👹.
 
 Lastly, I want to say thank you to all my friends and teachers who helped and supported me. Thanks to them, I was able to finish this course and complete the project.
 
