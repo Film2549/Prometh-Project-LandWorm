@@ -46,7 +46,7 @@ As shown in the image, the blue player will die and return to the point where th
 You can invade and take over the other player’s territory if you safely return to your own area. You can also collect coins, which act as a bonus, giving you the equivalent of 10 free tiles. This can help determine the winner at the end of the game. In addition, there are potions that temporarily increase the speed of the player who picks them up.
 
 ### ResultScene
-![unnamed](https://github.com/user-attachments/assets/a0690cab-6b2b-4220-8319-b116e4f10336)
+![image](https://github.com/user-attachments/assets/3014596f-2d1f-4ffe-bcfa-3f7b55441acc)
 When time runs out, the winner will be shown.
 
 
